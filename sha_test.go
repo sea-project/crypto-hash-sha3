@@ -1,4 +1,4 @@
-package crypto_hash_sha3
+package sha3
 
 import (
 	"encoding/hex"
